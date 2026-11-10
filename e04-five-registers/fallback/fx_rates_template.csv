@@ -1,0 +1,7 @@
+currency,base_currency,year,rate_per_1_base,rate_type,source,source_url,retrieved_on
+GBP,EUR,2024,,annual average of daily reference rates [VERIFY: fill from source],European Central Bank euro foreign exchange reference rates,https://data.ecb.europa.eu/ [VERIFY exact series URL],
+CAD,EUR,2024,,annual average of daily reference rates [VERIFY: fill from source],European Central Bank euro foreign exchange reference rates,https://data.ecb.europa.eu/ [VERIFY exact series URL],
+AUD,EUR,2024,,annual average of daily reference rates [VERIFY: fill from source],European Central Bank euro foreign exchange reference rates,https://data.ecb.europa.eu/ [VERIFY exact series URL],
+USD,EUR,2024,,annual average of daily reference rates [VERIFY: fill from source],European Central Bank euro foreign exchange reference rates,https://data.ecb.europa.eu/ [VERIFY exact series URL],
+PLN,EUR,2024,,annual average of daily reference rates [VERIFY: fill from source],European Central Bank euro foreign exchange reference rates,https://data.ecb.europa.eu/ [VERIFY exact series URL],
+EUR,EUR,2024,1,identity,definition,,

@@ -1,0 +1,96 @@
+jurisdiction,source_code_type,source_code,source_label,cause
+GB-EAW,ccew_classification_what,101,General Charitable Purposes,general
+GB-EAW,ccew_classification_what,102,Education/training,education
+GB-EAW,ccew_classification_what,103,The Advancement Of Health Or Saving Of Lives,health
+GB-EAW,ccew_classification_what,104,Disability,disability
+GB-EAW,ccew_classification_what,105,The Prevention Or Relief Of Poverty,poverty
+GB-EAW,ccew_classification_what,106,Overseas Aid/famine Relief,international_aid
+GB-EAW,ccew_classification_what,107,Accommodation/housing,housing
+GB-EAW,ccew_classification_what,108,Religious Activities,religion
+GB-EAW,ccew_classification_what,109,Arts/culture/heritage/science,arts_culture_heritage
+GB-EAW,ccew_classification_what,110,Amateur Sport,sport_recreation
+GB-EAW,ccew_classification_what,111,Animals,animals
+GB-EAW,ccew_classification_what,112,Environment/conservation/heritage,environment
+GB-EAW,ccew_classification_what,113,Economic/community Development/employment,community_development
+GB-EAW,ccew_classification_what,114,Armed Forces/emergency Service Efficiency,armed_forces_emergency
+GB-EAW,ccew_classification_what,115,Human Rights/religious Or Racial Harmony/equality Or Diversity,human_rights
+GB-EAW,ccew_classification_what,116,Recreation,sport_recreation
+GB-EAW,ccew_classification_what,117,Other Charitable Purposes,other
+CA,cra_category,0001,Organizations Relieving Poverty,poverty
+CA,cra_category,0002,Foundations Relieving Poverty,poverty
+CA,cra_category,0010,Teaching Institutions,education
+CA,cra_category,0011,Support of schools and education,education
+CA,cra_category,0012,Education in the arts,education
+CA,cra_category,0013,Educational organizations n.e.c.,education
+CA,cra_category,0014,Research,research
+CA,cra_category,0015,Foundations Advancing Education,education
+CA,cra_category,0030,Christianity,religion
+CA,cra_category,0040,Islam,religion
+CA,cra_category,0050,Judaism,religion
+CA,cra_category,0060,Other Religions,religion
+CA,cra_category,0070,Support of Religion,religion
+CA,cra_category,0080,Ecumenical and Inter-faith,religion
+CA,cra_category,0090,Foundations Advancing Religions,religion
+CA,cra_category,0100,Core Health Care,health
+CA,cra_category,0110,Supportive Health Care,health
+CA,cra_category,0120,Protective Health Care,health
+CA,cra_category,0130,Health Care Products,health
+CA,cra_category,0140,Complementary or Alternative Health Care,health
+CA,cra_category,0150,Relief of the Aged,older_people
+CA,cra_category,0155,Upholding Human Rights,human_rights
+CA,cra_category,0160,Community Resource,community_development
+CA,cra_category,0170,Environment,environment
+CA,cra_category,0175,Agriculture,community_development
+CA,cra_category,0180,Animal Welfare,animals
+CA,cra_category,0190,Arts,arts_culture_heritage
+CA,cra_category,0200,Public Amenities,sport_recreation
+CA,cra_category,0210,Foundations,grantmaking
+CA,cra_category,0215,National Arts Service Organization,arts_culture_heritage
+AU,acnc_purpose_flag,Preventing_or_relieving_suffering_of_animals,Preventing or relieving suffering of animals,animals
+AU,acnc_purpose_flag,Advancing_Culture,Advancing Culture,arts_culture_heritage
+AU,acnc_purpose_flag,Advancing_Education,Advancing Education,education
+AU,acnc_purpose_flag,Advancing_Health,Advancing Health,health
+AU,acnc_purpose_flag,Promote_or_oppose_a_change_to_law__government_poll_or_prac,Promote or oppose a change to law  government poll or prac,advocacy
+AU,acnc_purpose_flag,Advancing_natual_environment,Advancing natual environment,environment
+AU,acnc_purpose_flag,Promoting_or_protecting_human_rights,Promoting or protecting human rights,human_rights
+AU,acnc_purpose_flag,Purposes_beneficial_to_ther_general_public_and_other_analogous,Purposes beneficial to ther general public and other analogous,general
+AU,acnc_purpose_flag,Promoting_reconciliation__mutual_respect_and_tolerance,Promoting reconciliation  mutual respect and tolerance,human_rights
+AU,acnc_purpose_flag,Advancing_Religion,Advancing Religion,religion
+AU,acnc_purpose_flag,Advancing_social_or_public_welfare,Advancing social or public welfare,poverty
+AU,acnc_purpose_flag,Advancing_security_or_safety_of_Australia_or_Australian_public,Advancing security or safety of Australia or Australian public,armed_forces_emergency
+US,ntee_major_group,A,"Arts, Culture & Humanities",arts_culture_heritage
+US,ntee_major_group,B,Education,education
+US,ntee_major_group,C,Environment,environment
+US,ntee_major_group,D,Animal-Related,animals
+US,ntee_major_group,E,Health Care,health
+US,ntee_major_group,F,Mental Health & Crisis Intervention,health
+US,ntee_major_group,G,"Diseases, Disorders & Medical Disciplines",health
+US,ntee_major_group,H,Medical Research,research
+US,ntee_major_group,I,Crime & Legal-Related,human_rights
+US,ntee_major_group,J,Employment,community_development
+US,ntee_major_group,K,"Food, Agriculture & Nutrition",poverty
+US,ntee_major_group,L,Housing & Shelter,housing
+US,ntee_major_group,M,"Public Safety, Disaster Preparedness & Relief",armed_forces_emergency
+US,ntee_major_group,N,Recreation & Sports,sport_recreation
+US,ntee_major_group,O,Youth Development,children_youth
+US,ntee_major_group,P,Human Services,poverty
+US,ntee_major_group,Q,"International, Foreign Affairs & National Security",international_aid
+US,ntee_major_group,R,"Civil Rights, Social Action & Advocacy",human_rights
+US,ntee_major_group,S,Community Improvement & Capacity Building,community_development
+US,ntee_major_group,T,"Philanthropy, Voluntarism & Grantmaking Foundations",grantmaking
+US,ntee_major_group,U,Science & Technology,research
+US,ntee_major_group,V,Social Science,research
+US,ntee_major_group,W,Public & Societal Benefit,general
+US,ntee_major_group,X,Religion-Related,religion
+US,ntee_major_group,Y,Mutual & Membership Benefit,other
+US,ntee_major_group,Z,Unknown,unknown
+PL,pkd_division_opp,85,Edukacja / Education,education
+PL,pkd_division_opp,86,Opieka zdrowotna / Health care,health
+PL,pkd_division_opp,87,Pomoc społeczna z zakwaterowaniem / Residential care,older_people
+PL,pkd_division_opp,88,Pomoc społeczna bez zakwaterowania / Social work without accommodation,poverty
+PL,pkd_division_opp,90,Działalność twórcza / Creative and arts activities,arts_culture_heritage
+PL,pkd_division_opp,91,"Biblioteki, archiwa, muzea / Libraries, museums",arts_culture_heritage
+PL,pkd_division_opp,93,Sport i rekreacja / Sport and recreation,sport_recreation
+PL,pkd_division_opp,94,Organizacje członkowskie / Membership organisations,other
+PL,pkd_division_opp,72,Badania naukowe / Scientific research,research
+PL,pkd_division_opp,75,Weterynaria / Veterinary,animals

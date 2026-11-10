@@ -7,6 +7,7 @@ Companion code for a hands-on blog series. We build a Support Copilot on Databri
 | E1: One Prompt, One Pipeline | [`e01-genie-code-pipeline/`](e01-genie-code-pipeline/) | Messy support-ticket data generator (`data_generator/`), the same data pre-generated with seed 42 (`raw_data.zip`), the extra ticket batch for the incremental step (`extra/`), the `support-copilot-medallion` skill and prompts (`prompts/`), reference bronze/silver/gold SQL (`fallback_pipeline/`) |
 | E2: Documents into Data | [`e02-agent-bricks-documents/`](e02-agent-bricks-documents/) | PDF attachment generator and ground truth (`data_generator/`), the 48 generated PDFs plus index (`raw_data.zip`), the `support-copilot-documents` skill and prompts (`prompts/`), reference SQL and a scoring query (`fallback/`) |
 | E3: Modeling the Business with Unity Catalog | [`e03-uc-semantics/`](e03-uc-semantics/) | The `support-copilot-semantics` skill and prompts (`prompts/`), four numbered SQL files: key checks, the duplicate fix, keys and comments, the metric view (`fallback/`) |
+| E4: Five National Charity Registers | [`e04-five-registers/`](e04-five-registers/) | First Charity Lens episode: the `charity-lens-registers` skill and prompts (`prompts/`), bronze/silver/gold fallback SQL, licence tags and checks (`fallback/`), the upload allow-list and staging script (`upload/`). No register data: download it from the publishers listed in the folder README |
 
 ## How to use it with Databricks Free Edition
 
@@ -24,7 +25,7 @@ Episodes build on each other: E2 and E3 expect the E1 tables in `workspace.suppo
 
 ## Data
 
-All data here is synthetic, made by the generators in this repo: fictional companies and people, `example.com` emails, invented invoices and screenshots. Nothing comes from real customers or third-party datasets.
+E1–E3 data is synthetic, made by the generators in this repo: fictional companies and people, `example.com` emails, invented invoices and screenshots. Nothing comes from real customers. From E4 on we use real open data from national charity registers; it is not stored here, and each episode folder lists the sources and licences.
 
 ## Licence
 
