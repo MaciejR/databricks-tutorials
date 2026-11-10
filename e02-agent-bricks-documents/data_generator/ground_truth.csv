@@ -1,0 +1,49 @@
+attachment_id,ticket_id,doc_type,invoice_number,document_date,currency,amount,language,amount_mismatch,error_title
+ATT-0001,T003733,invoice,INV-202610-4582,2026-10-15,PLN,7606.32,pl,,
+ATT-0002,T000739,invoice,INV-202607-5557,2026-07-15,GBP,519.5,en,,
+ATT-0003,T000739,refund_request,INV-202607-5557,2026-08-03,GBP,519.5,en,False,
+ATT-0004,T000161,invoice,INV-202607-1711,2026-07-27,EUR,910.8,en,,
+ATT-0005,T000161,refund_request,INV-202607-1711,2026-08-05,EUR,910.8,en,False,
+ATT-0006,T004306,invoice,INV-202609-2307,2026-09-13,USD,87.0,en,,
+ATT-0007,T004306,refund_request,INV-202609-2307,2026-09-23,USD,87.0,en,False,
+ATT-0008,T001730,invoice,INV-202608-8573,2026-08-20,USD,320.0,en,,
+ATT-0009,T001532,invoice,INV-202607-4456,2026-07-27,USD,2475.0,en,,
+ATT-0010,T001360,invoice,INV-202609-5040,2026-09-22,USD,725.0,en,,
+ATT-0011,T001360,refund_request,INV-202609-5040,2026-09-27,USD,725.0,en,False,
+ATT-0012,T000927,invoice,INV-202608-7916,2026-08-01,USD,2535.0,en,,
+ATT-0013,T004280,invoice,INV-202609-9797,2026-09-01,PLN,2435.4,pl,,
+ATT-0014,T004280,refund_request,INV-202609-9797,2026-09-05,PLN,1217.7,en,True,
+ATT-0015,T000673,invoice,INV-202607-4258,2026-07-10,GBP,110.92,en,,
+ATT-0016,T000673,refund_request,INV-202607-4258,2026-07-27,GBP,110.92,en,False,
+ATT-0017,T003954,invoice,INV-202608-9727,2026-08-30,GBP,139.36,en,,
+ATT-0018,T003954,refund_request,INV-202608-9727,2026-09-02,GBP,139.36,en,False,
+ATT-0019,T004295,invoice,INV-202607-8177,2026-07-23,EUR,739.68,en,,
+ATT-0020,T004295,refund_request,INV-202607-8177,2026-08-04,EUR,813.65,en,True,
+ATT-0021,T003227,invoice,INV-202609-8953,2026-09-06,GBP,82.48,en,,
+ATT-0022,T000575,invoice,INV-202609-8062,2026-09-09,GBP,194.34,en,,
+ATT-0023,T000575,refund_request,INV-202609-8062,2026-09-13,GBP,388.68,en,True,
+ATT-0024,T000575,invoice,INV-202609-8579,2026-09-04,GBP,128.93,en,,
+ATT-0025,T003472,invoice,INV-202610-4872,2026-10-13,GBP,185.81,en,,
+ATT-0026,T003472,refund_request,INV-202610-4872,2026-10-15,GBP,185.81,en,False,
+ATT-0027,T002590,invoice,INV-202608-1958,2026-08-01,USD,774.0,en,,
+ATT-0028,T002590,refund_request,INV-202608-1958,2026-08-08,USD,774.0,en,False,
+ATT-0029,T003502,error_report,,2026-09-22,,,en,,HTTP 401 Unauthorized
+ATT-0030,T000370,error_report,,2026-10-06,,,en,,Gateway Timeout (504)
+ATT-0031,T003973,error_report,,2026-09-23,,,en,,HTTP 401 Unauthorized
+ATT-0032,T001373,error_report,,2026-09-23,,,en,,Gateway Timeout (504)
+ATT-0033,T002288,error_report,,2026-08-18,,,en,,Webhook delivery failed
+ATT-0034,T000683,error_report,,2026-08-07,,,en,,SAML response invalid
+ATT-0035,T003329,error_report,,2026-09-22,,,en,,The app quit unexpectedly
+ATT-0036,T001426,error_report,,2026-07-25,,,en,,HTTP 401 Unauthorized
+ATT-0037,T003400,error_report,,2026-09-03,,,en,,The app quit unexpectedly
+ATT-0038,T003499,error_report,,2026-08-27,,,en,,The app quit unexpectedly
+ATT-0039,T000196,error_report,,2026-08-13,,,en,,Sign-in failed
+ATT-0040,T003649,error_report,,2026-09-13,,,en,,HTTP 401 Unauthorized
+ATT-0041,T000451,error_report,,2026-08-07,,,en,,Sign-in failed
+ATT-0042,T002410,error_report,,2026-08-22,,,en,,Sign-in failed
+ATT-0043,T003874,error_report,,2026-08-21,,,en,,HTTP 401 Unauthorized
+ATT-0044,T003427,error_report,,2026-07-26,,,en,,Sign-in failed
+ATT-0045,T003313,error_report,,2026-07-07,,,en,,HTTP 401 Unauthorized
+ATT-0046,T003037,error_report,,2026-07-08,,,en,,SAML response invalid
+ATT-0047,T001823,error_report,,2026-08-11,,,en,,The app quit unexpectedly
+ATT-0048,T001510,error_report,,2026-08-22,,,en,,Export failed
