@@ -8,6 +8,7 @@ Companion code for a hands-on blog series. We build a Support Copilot on Databri
 | E2: Documents into Data | [`e02-agent-bricks-documents/`](e02-agent-bricks-documents/) | PDF attachment generator and ground truth (`data_generator/`), the 48 generated PDFs plus index (`raw_data.zip`), the `support-copilot-documents` skill and prompts (`prompts/`), reference SQL and a scoring query (`fallback/`) |
 | E3: Modeling the Business with Unity Catalog | [`e03-uc-semantics/`](e03-uc-semantics/) | The `support-copilot-semantics` skill and prompts (`prompts/`), four numbered SQL files: key checks, the duplicate fix, keys and comments, the metric view (`fallback/`) |
 | E4: Five National Charity Registers | [`e04-five-registers/`](e04-five-registers/) | First Charity Lens episode: the `charity-lens-registers` skill and prompts (`prompts/`), bronze/silver/gold fallback SQL, licence tags and checks (`fallback/`), the upload allow-list and staging script (`upload/`). No register data: download it from the publishers listed in the folder README |
+| E5: One Ontology for Five Registers | [`e05-charity-ontology/`](e05-charity-ontology/) | Second Charity Lens episode: the `charity-lens-ontology` skill, Genie Code prompts, Genie Agent setup and Page drafts (`prompts/`), the ontology, keys and metric views in plain SQL plus three reference CSVs (`fallback/`). Built on the E4 tables; no new source data |
 
 ## How to use it with Databricks Free Edition
 

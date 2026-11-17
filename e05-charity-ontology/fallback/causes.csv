@@ -1,0 +1,23 @@
+cause,display_name,description,cause_group,synonyms
+animals,Animals,Animal welfare and protection,nature_and_animals,animal welfare|animal protection
+environment,Environment,Environment and conservation,nature_and_animals,conservation|climate|nature
+education,Education,"Education, training and schools",education_and_research,schools|training|learning
+research,Research,Research and science,education_and_research,science|medical research
+health,Health,Health care and saving lives,health,medical|hospitals|healthcare
+disability,Disability,Support for disabled people,people_and_communities,disabled people|accessibility
+poverty,Poverty relief,Prevention or relief of poverty,people_and_communities,poverty|food banks|hardship
+housing,Housing,Accommodation and housing,people_and_communities,homelessness|shelter|accommodation
+older_people,Older people,Relief and support of older people,people_and_communities,elderly|aged care|seniors
+children_youth,Children and youth,Youth development and children,people_and_communities,children|young people|youth
+community_development,Community development,"Economic and community development, employment",people_and_communities,community|employment|local development
+human_rights,Human rights,"Human rights, equality, harmony and civil society",people_and_communities,equality|civil rights|diversity
+advocacy,Advocacy,Advocacy and law reform,people_and_communities,law reform|policy advocacy
+international_aid,International aid,"Overseas aid, famine and disaster relief abroad",people_and_communities,overseas aid|humanitarian|famine relief
+armed_forces_emergency,Armed forces and emergency services,"Armed forces, veterans and emergency services",public_safety,veterans|emergency services|disaster preparedness
+religion,Religion,Advancement of religion and religious activities,faith,faith|church|worship
+arts_culture_heritage,"Arts, culture and heritage","Arts, culture, heritage and humanities",culture_and_recreation,arts|culture|heritage|museums
+sport_recreation,Sport and recreation,Amateur sport and recreation,culture_and_recreation,sport|recreation|leisure
+grantmaking,Grantmaking,Grant-making foundations and voluntarism,grantmaking,foundations|grants|philanthropy
+general,General charitable purposes,General purposes without a specific cause,unspecified,general purposes
+other,Other purposes,Other charitable purposes not listed elsewhere,unspecified,other
+unknown,Unknown,Source code exists but does not say what the organisation does,unspecified,unclassified

@@ -1,0 +1,708 @@
+jurisdiction,source_code_type,source_value,iso2,country_name,mapping_note,mapping_status
+GB-EAW,ccew_area_country_name,Abu Dhabi,AE,United Arab Emirates,emirate; mapped to AE,mapped
+GB-EAW,ccew_area_country_name,Afghanistan,AF,Afghanistan,,mapped
+GB-EAW,ccew_area_country_name,Ajman,AE,United Arab Emirates,emirate; mapped to AE,mapped
+GB-EAW,ccew_area_country_name,Akrotiri,,,UK Sovereign Base Area on Cyprus; no ISO 3166-1 code,unmapped
+GB-EAW,ccew_area_country_name,Aland Islands,AX,Åland Islands,,mapped
+GB-EAW,ccew_area_country_name,Albania,AL,Albania,,mapped
+GB-EAW,ccew_area_country_name,Algeria,DZ,Algeria,,mapped
+GB-EAW,ccew_area_country_name,American Samoa,AS,American Samoa,,mapped
+GB-EAW,ccew_area_country_name,Andorra,AD,Andorra,,mapped
+GB-EAW,ccew_area_country_name,Angola,AO,Angola,,mapped
+GB-EAW,ccew_area_country_name,Anguilla,AI,Anguilla,,mapped
+GB-EAW,ccew_area_country_name,Antarctica,AQ,Antarctica,,mapped
+GB-EAW,ccew_area_country_name,Antigua And Barbuda,AG,Antigua and Barbuda,,mapped
+GB-EAW,ccew_area_country_name,Argentina,AR,Argentina,,mapped
+GB-EAW,ccew_area_country_name,Armenia,AM,Armenia,,mapped
+GB-EAW,ccew_area_country_name,Aruba,AW,Aruba,,mapped
+GB-EAW,ccew_area_country_name,Ascension,SH,"Saint Helena, Ascension and Tristan da Cunha",,mapped
+GB-EAW,ccew_area_country_name,Australia,AU,Australia,,mapped
+GB-EAW,ccew_area_country_name,Austria,AT,Austria,,mapped
+GB-EAW,ccew_area_country_name,Azerbaijan,AZ,Azerbaijan,,mapped
+GB-EAW,ccew_area_country_name,Bahrain,BH,Bahrain,,mapped
+GB-EAW,ccew_area_country_name,Baker Island,UM,United States Minor Outlying Islands,,mapped
+GB-EAW,ccew_area_country_name,Bangladesh,BD,Bangladesh,,mapped
+GB-EAW,ccew_area_country_name,Barbados,BB,Barbados,,mapped
+GB-EAW,ccew_area_country_name,Belarus,BY,Belarus,,mapped
+GB-EAW,ccew_area_country_name,Belgium,BE,Belgium,,mapped
+GB-EAW,ccew_area_country_name,Belize,BZ,Belize,,mapped
+GB-EAW,ccew_area_country_name,Benin,BJ,Benin,,mapped
+GB-EAW,ccew_area_country_name,Bermuda,BM,Bermuda,,mapped
+GB-EAW,ccew_area_country_name,Bhutan,BT,Bhutan,,mapped
+GB-EAW,ccew_area_country_name,Bolivia,BO,"Bolivia, Plurinational State of",,mapped
+GB-EAW,ccew_area_country_name,Bonaire,BQ,"Bonaire, Sint Eustatius and Saba",,mapped
+GB-EAW,ccew_area_country_name,Bosnia And Herzegovina,BA,Bosnia and Herzegovina,,mapped
+GB-EAW,ccew_area_country_name,Botswana,BW,Botswana,,mapped
+GB-EAW,ccew_area_country_name,Bouvet Island,BV,Bouvet Island,,mapped
+GB-EAW,ccew_area_country_name,Brazil,BR,Brazil,,mapped
+GB-EAW,ccew_area_country_name,British Antarctic Territory,AQ,Antarctica,mapped to AQ (Antarctica),mapped
+GB-EAW,ccew_area_country_name,British Indian Ocean Territory,IO,British Indian Ocean Territory,,mapped
+GB-EAW,ccew_area_country_name,British Virgin Islands,VG,"Virgin Islands, British",,mapped
+GB-EAW,ccew_area_country_name,Brunei,BN,Brunei Darussalam,,mapped
+GB-EAW,ccew_area_country_name,Bulgaria,BG,Bulgaria,,mapped
+GB-EAW,ccew_area_country_name,Burkina Faso,BF,Burkina Faso,,mapped
+GB-EAW,ccew_area_country_name,Burma,MM,Myanmar,,mapped
+GB-EAW,ccew_area_country_name,Burundi,BI,Burundi,,mapped
+GB-EAW,ccew_area_country_name,Cambodia,KH,Cambodia,,mapped
+GB-EAW,ccew_area_country_name,Cameroon,CM,Cameroon,,mapped
+GB-EAW,ccew_area_country_name,Canada,CA,Canada,,mapped
+GB-EAW,ccew_area_country_name,Cape Verde,CV,Cabo Verde,,mapped
+GB-EAW,ccew_area_country_name,Cayman Islands,KY,Cayman Islands,,mapped
+GB-EAW,ccew_area_country_name,Central African Republic,CF,Central African Republic,,mapped
+GB-EAW,ccew_area_country_name,Ceuta,ES,Spain,Spanish city; mapped to ES,mapped
+GB-EAW,ccew_area_country_name,Chad,TD,Chad,,mapped
+GB-EAW,ccew_area_country_name,Chile,CL,Chile,,mapped
+GB-EAW,ccew_area_country_name,China,CN,China,,mapped
+GB-EAW,ccew_area_country_name,Christmas Island,CX,Christmas Island,,mapped
+GB-EAW,ccew_area_country_name,Cocos (KEELING) ISLANDS,CC,Cocos (Keeling) Islands,,mapped
+GB-EAW,ccew_area_country_name,Colombia,CO,Colombia,,mapped
+GB-EAW,ccew_area_country_name,Comoros,KM,Comoros,,mapped
+GB-EAW,ccew_area_country_name,Congo,CG,Congo,,mapped
+GB-EAW,ccew_area_country_name,Congo (Democratic Republic),CD,"Congo, The Democratic Republic of the",,mapped
+GB-EAW,ccew_area_country_name,Cook Islands,CK,Cook Islands,,mapped
+GB-EAW,ccew_area_country_name,Costa Rica,CR,Costa Rica,,mapped
+GB-EAW,ccew_area_country_name,Croatia,HR,Croatia,,mapped
+GB-EAW,ccew_area_country_name,Cuba,CU,Cuba,,mapped
+GB-EAW,ccew_area_country_name,Cyprus,CY,Cyprus,,mapped
+GB-EAW,ccew_area_country_name,Czech Republic,CZ,Czechia,,mapped
+GB-EAW,ccew_area_country_name,Denmark,DK,Denmark,,mapped
+GB-EAW,ccew_area_country_name,Dhekelia,,,UK Sovereign Base Area on Cyprus; no ISO 3166-1 code,unmapped
+GB-EAW,ccew_area_country_name,Djibouti,DJ,Djibouti,,mapped
+GB-EAW,ccew_area_country_name,Dominica,DM,Dominica,,mapped
+GB-EAW,ccew_area_country_name,Dominican Republic,DO,Dominican Republic,,mapped
+GB-EAW,ccew_area_country_name,Dubai,AE,United Arab Emirates,emirate; mapped to AE,mapped
+GB-EAW,ccew_area_country_name,East Timor,TL,Timor-Leste,,mapped
+GB-EAW,ccew_area_country_name,Easter Island,CL,Chile,part of Chile,mapped
+GB-EAW,ccew_area_country_name,Ecuador,EC,Ecuador,,mapped
+GB-EAW,ccew_area_country_name,Egypt,EG,Egypt,,mapped
+GB-EAW,ccew_area_country_name,El Salvador,SV,El Salvador,,mapped
+GB-EAW,ccew_area_country_name,Equatorial Guinea,GQ,Equatorial Guinea,,mapped
+GB-EAW,ccew_area_country_name,Eritrea,ER,Eritrea,,mapped
+GB-EAW,ccew_area_country_name,Estonia,EE,Estonia,,mapped
+GB-EAW,ccew_area_country_name,Eswatini,SZ,Eswatini,,mapped
+GB-EAW,ccew_area_country_name,Ethiopia,ET,Ethiopia,,mapped
+GB-EAW,ccew_area_country_name,Falkland Islands,FK,Falkland Islands (Malvinas),,mapped
+GB-EAW,ccew_area_country_name,Faroe Islands,FO,Faroe Islands,,mapped
+GB-EAW,ccew_area_country_name,Fiji,FJ,Fiji,,mapped
+GB-EAW,ccew_area_country_name,Finland,FI,Finland,,mapped
+GB-EAW,ccew_area_country_name,France,FR,France,,mapped
+GB-EAW,ccew_area_country_name,French Guiana,GF,French Guiana,,mapped
+GB-EAW,ccew_area_country_name,French Polynesia,PF,French Polynesia,,mapped
+GB-EAW,ccew_area_country_name,French Southern Territories,TF,French Southern Territories,,mapped
+GB-EAW,ccew_area_country_name,Fujairah,AE,United Arab Emirates,emirate; mapped to AE,mapped
+GB-EAW,ccew_area_country_name,Gabon,GA,Gabon,,mapped
+GB-EAW,ccew_area_country_name,Georgia,GE,Georgia,,mapped
+GB-EAW,ccew_area_country_name,Germany,DE,Germany,,mapped
+GB-EAW,ccew_area_country_name,Ghana,GH,Ghana,,mapped
+GB-EAW,ccew_area_country_name,Gibraltar,GI,Gibraltar,,mapped
+GB-EAW,ccew_area_country_name,Greece,GR,Greece,,mapped
+GB-EAW,ccew_area_country_name,Greenland,GL,Greenland,,mapped
+GB-EAW,ccew_area_country_name,Grenada,GD,Grenada,,mapped
+GB-EAW,ccew_area_country_name,Guadeloupe,GP,Guadeloupe,,mapped
+GB-EAW,ccew_area_country_name,Guam,GU,Guam,,mapped
+GB-EAW,ccew_area_country_name,Guatemala,GT,Guatemala,,mapped
+GB-EAW,ccew_area_country_name,Guernsey,GG,Guernsey,,mapped
+GB-EAW,ccew_area_country_name,Guinea,GN,Guinea,,mapped
+GB-EAW,ccew_area_country_name,Guinea-bissau,GW,Guinea-Bissau,,mapped
+GB-EAW,ccew_area_country_name,Guyana,GY,Guyana,,mapped
+GB-EAW,ccew_area_country_name,Haiti,HT,Haiti,,mapped
+GB-EAW,ccew_area_country_name,Heard Island And Mcdonald Islands,HM,Heard Island and McDonald Islands,,mapped
+GB-EAW,ccew_area_country_name,Honduras,HN,Honduras,,mapped
+GB-EAW,ccew_area_country_name,Hong Kong,HK,Hong Kong,,mapped
+GB-EAW,ccew_area_country_name,Howland Island,UM,United States Minor Outlying Islands,,mapped
+GB-EAW,ccew_area_country_name,Hungary,HU,Hungary,,mapped
+GB-EAW,ccew_area_country_name,Iceland,IS,Iceland,,mapped
+GB-EAW,ccew_area_country_name,India,IN,India,,mapped
+GB-EAW,ccew_area_country_name,Indonesia,ID,Indonesia,,mapped
+GB-EAW,ccew_area_country_name,Iran,IR,"Iran, Islamic Republic of",,mapped
+GB-EAW,ccew_area_country_name,Iraq,IQ,Iraq,,mapped
+GB-EAW,ccew_area_country_name,Ireland,IE,Ireland,,mapped
+GB-EAW,ccew_area_country_name,Isle Of Man,IM,Isle of Man,,mapped
+GB-EAW,ccew_area_country_name,Israel,IL,Israel,,mapped
+GB-EAW,ccew_area_country_name,Italy,IT,Italy,,mapped
+GB-EAW,ccew_area_country_name,Ivory Coast,CI,Côte d'Ivoire,,mapped
+GB-EAW,ccew_area_country_name,Jamaica,JM,Jamaica,,mapped
+GB-EAW,ccew_area_country_name,Japan,JP,Japan,,mapped
+GB-EAW,ccew_area_country_name,Jarvis Island,UM,United States Minor Outlying Islands,,mapped
+GB-EAW,ccew_area_country_name,Jersey,JE,Jersey,,mapped
+GB-EAW,ccew_area_country_name,Johnston Atoll,UM,United States Minor Outlying Islands,,mapped
+GB-EAW,ccew_area_country_name,Jordan,JO,Jordan,,mapped
+GB-EAW,ccew_area_country_name,Kazakhstan,KZ,Kazakhstan,,mapped
+GB-EAW,ccew_area_country_name,Kenya,KE,Kenya,,mapped
+GB-EAW,ccew_area_country_name,Kingman Reef,UM,United States Minor Outlying Islands,,mapped
+GB-EAW,ccew_area_country_name,Kiribati,KI,Kiribati,,mapped
+GB-EAW,ccew_area_country_name,Kosovo,XK,Kosovo,XK is a user-assigned code (not official ISO 3166-1); widely used,mapped
+GB-EAW,ccew_area_country_name,Kuwait,KW,Kuwait,,mapped
+GB-EAW,ccew_area_country_name,Kyrgyzstan,KG,Kyrgyzstan,,mapped
+GB-EAW,ccew_area_country_name,Laos,LA,Lao People's Democratic Republic,,mapped
+GB-EAW,ccew_area_country_name,Latvia,LV,Latvia,,mapped
+GB-EAW,ccew_area_country_name,Lebanon,LB,Lebanon,,mapped
+GB-EAW,ccew_area_country_name,Lesotho,LS,Lesotho,,mapped
+GB-EAW,ccew_area_country_name,Liberia,LR,Liberia,,mapped
+GB-EAW,ccew_area_country_name,Libya,LY,Libya,,mapped
+GB-EAW,ccew_area_country_name,Liechtenstein,LI,Liechtenstein,,mapped
+GB-EAW,ccew_area_country_name,Lithuania,LT,Lithuania,,mapped
+GB-EAW,ccew_area_country_name,Luxembourg,LU,Luxembourg,,mapped
+GB-EAW,ccew_area_country_name,Macau,MO,Macao,,mapped
+GB-EAW,ccew_area_country_name,Macedonia,MK,North Macedonia,,mapped
+GB-EAW,ccew_area_country_name,Madagascar,MG,Madagascar,,mapped
+GB-EAW,ccew_area_country_name,Malawi,MW,Malawi,,mapped
+GB-EAW,ccew_area_country_name,Malaysia,MY,Malaysia,,mapped
+GB-EAW,ccew_area_country_name,Maldives,MV,Maldives,,mapped
+GB-EAW,ccew_area_country_name,Mali,ML,Mali,,mapped
+GB-EAW,ccew_area_country_name,Malta,MT,Malta,,mapped
+GB-EAW,ccew_area_country_name,Marshall Islands,MH,Marshall Islands,,mapped
+GB-EAW,ccew_area_country_name,Martinique,MQ,Martinique,,mapped
+GB-EAW,ccew_area_country_name,Mauritania,MR,Mauritania,,mapped
+GB-EAW,ccew_area_country_name,Mauritius,MU,Mauritius,,mapped
+GB-EAW,ccew_area_country_name,Mayotte,YT,Mayotte,,mapped
+GB-EAW,ccew_area_country_name,Melilla,ES,Spain,Spanish city; mapped to ES,mapped
+GB-EAW,ccew_area_country_name,Mexico,MX,Mexico,,mapped
+GB-EAW,ccew_area_country_name,Micronesia,FM,"Micronesia, Federated States of",,mapped
+GB-EAW,ccew_area_country_name,Midway Islands,UM,United States Minor Outlying Islands,,mapped
+GB-EAW,ccew_area_country_name,Moldova,MD,"Moldova, Republic of",,mapped
+GB-EAW,ccew_area_country_name,Monaco,MC,Monaco,,mapped
+GB-EAW,ccew_area_country_name,Mongolia,MN,Mongolia,,mapped
+GB-EAW,ccew_area_country_name,Montenegro,ME,Montenegro,,mapped
+GB-EAW,ccew_area_country_name,Montserrat,MS,Montserrat,,mapped
+GB-EAW,ccew_area_country_name,Morocco,MA,Morocco,,mapped
+GB-EAW,ccew_area_country_name,Mozambique,MZ,Mozambique,,mapped
+GB-EAW,ccew_area_country_name,Namibia,NA,Namibia,,mapped
+GB-EAW,ccew_area_country_name,Nauru,NR,Nauru,,mapped
+GB-EAW,ccew_area_country_name,Navassa Island,UM,United States Minor Outlying Islands,,mapped
+GB-EAW,ccew_area_country_name,Nepal,NP,Nepal,,mapped
+GB-EAW,ccew_area_country_name,Netherlands,NL,Netherlands,,mapped
+GB-EAW,ccew_area_country_name,Netherlands Antilles,,,dissolved 2010 (former code AN); no current ISO code,unmapped
+GB-EAW,ccew_area_country_name,New Caledonia,NC,New Caledonia,,mapped
+GB-EAW,ccew_area_country_name,New Zealand,NZ,New Zealand,,mapped
+GB-EAW,ccew_area_country_name,Nicaragua,NI,Nicaragua,,mapped
+GB-EAW,ccew_area_country_name,Niger,NE,Niger,,mapped
+GB-EAW,ccew_area_country_name,Nigeria,NG,Nigeria,,mapped
+GB-EAW,ccew_area_country_name,Niue,NU,Niue,,mapped
+GB-EAW,ccew_area_country_name,Norfolk Island,NF,Norfolk Island,,mapped
+GB-EAW,ccew_area_country_name,North Korea,KP,"Korea, Democratic People's Republic of",,mapped
+GB-EAW,ccew_area_country_name,Northern Ireland,GB,United Kingdom,UK nation outside England & Wales; mapped to GB,mapped
+GB-EAW,ccew_area_country_name,Northern Mariana Islands,MP,Northern Mariana Islands,,mapped
+GB-EAW,ccew_area_country_name,Norway,NO,Norway,,mapped
+GB-EAW,ccew_area_country_name,Occupied Palestinian Territories,PS,"Palestine, State of",,mapped
+GB-EAW,ccew_area_country_name,Oman,OM,Oman,,mapped
+GB-EAW,ccew_area_country_name,Pakistan,PK,Pakistan,,mapped
+GB-EAW,ccew_area_country_name,Palau,PW,Palau,,mapped
+GB-EAW,ccew_area_country_name,Palmyra Atoll,UM,United States Minor Outlying Islands,,mapped
+GB-EAW,ccew_area_country_name,Panama,PA,Panama,,mapped
+GB-EAW,ccew_area_country_name,Papua New Guinea,PG,Papua New Guinea,,mapped
+GB-EAW,ccew_area_country_name,Paraguay,PY,Paraguay,,mapped
+GB-EAW,ccew_area_country_name,Peru,PE,Peru,,mapped
+GB-EAW,ccew_area_country_name,Philippines,PH,Philippines,,mapped
+GB-EAW,ccew_area_country_name,"Pitcairn, Henderson, Ducie And Oeno Islands",PN,Pitcairn,,mapped
+GB-EAW,ccew_area_country_name,Poland,PL,Poland,,mapped
+GB-EAW,ccew_area_country_name,Portugal,PT,Portugal,,mapped
+GB-EAW,ccew_area_country_name,Puerto Rico,PR,Puerto Rico,,mapped
+GB-EAW,ccew_area_country_name,Qatar,QA,Qatar,,mapped
+GB-EAW,ccew_area_country_name,Ras Al-khaimah,AE,United Arab Emirates,emirate; mapped to AE,mapped
+GB-EAW,ccew_area_country_name,Romania,RO,Romania,,mapped
+GB-EAW,ccew_area_country_name,Russia,RU,Russian Federation,,mapped
+GB-EAW,ccew_area_country_name,Rwanda,RW,Rwanda,,mapped
+GB-EAW,ccew_area_country_name,Réunion,RE,Réunion,,mapped
+GB-EAW,ccew_area_country_name,Saba,BQ,"Bonaire, Sint Eustatius and Saba",,mapped
+GB-EAW,ccew_area_country_name,Saint Barthélemy,BL,Saint Barthélemy,,mapped
+GB-EAW,ccew_area_country_name,Saint Helena,SH,"Saint Helena, Ascension and Tristan da Cunha",,mapped
+GB-EAW,ccew_area_country_name,Saint Pierre And Miquelon,PM,Saint Pierre and Miquelon,,mapped
+GB-EAW,ccew_area_country_name,Saint Vincent,VC,Saint Vincent and the Grenadines,,mapped
+GB-EAW,ccew_area_country_name,Saint-Martin,MF,Saint Martin (French part),,mapped
+GB-EAW,ccew_area_country_name,Samoa,WS,Samoa,,mapped
+GB-EAW,ccew_area_country_name,San Marino,SM,San Marino,,mapped
+GB-EAW,ccew_area_country_name,Saudi Arabia,SA,Saudi Arabia,,mapped
+GB-EAW,ccew_area_country_name,Scotland,GB,United Kingdom,UK nation outside England & Wales; mapped to GB,mapped
+GB-EAW,ccew_area_country_name,Senegal,SN,Senegal,,mapped
+GB-EAW,ccew_area_country_name,Serbia,RS,Serbia,,mapped
+GB-EAW,ccew_area_country_name,Seychelles,SC,Seychelles,,mapped
+GB-EAW,ccew_area_country_name,Sierra Leone,SL,Sierra Leone,,mapped
+GB-EAW,ccew_area_country_name,Singapore,SG,Singapore,,mapped
+GB-EAW,ccew_area_country_name,Sint Eustatius,BQ,"Bonaire, Sint Eustatius and Saba",,mapped
+GB-EAW,ccew_area_country_name,Sint Maarten,SX,Sint Maarten (Dutch part),,mapped
+GB-EAW,ccew_area_country_name,Slovakia,SK,Slovakia,,mapped
+GB-EAW,ccew_area_country_name,Slovenia,SI,Slovenia,,mapped
+GB-EAW,ccew_area_country_name,Solomon Islands,SB,Solomon Islands,,mapped
+GB-EAW,ccew_area_country_name,Somalia,SO,Somalia,,mapped
+GB-EAW,ccew_area_country_name,South Africa,ZA,South Africa,,mapped
+GB-EAW,ccew_area_country_name,South Georgia And South Sandwich Islands,GS,South Georgia and the South Sandwich Islands,,mapped
+GB-EAW,ccew_area_country_name,South Korea,KR,"Korea, Republic of",,mapped
+GB-EAW,ccew_area_country_name,South Sudan,SS,South Sudan,,mapped
+GB-EAW,ccew_area_country_name,Spain,ES,Spain,,mapped
+GB-EAW,ccew_area_country_name,Sri Lanka,LK,Sri Lanka,,mapped
+GB-EAW,ccew_area_country_name,St Kitts And Nevis,KN,Saint Kitts and Nevis,,mapped
+GB-EAW,ccew_area_country_name,St Lucia,LC,Saint Lucia,,mapped
+GB-EAW,ccew_area_country_name,Sudan,SD,Sudan,,mapped
+GB-EAW,ccew_area_country_name,Suriname,SR,Suriname,,mapped
+GB-EAW,ccew_area_country_name,Svalbard And Jan Mayen,SJ,Svalbard and Jan Mayen,,mapped
+GB-EAW,ccew_area_country_name,Sweden,SE,Sweden,,mapped
+GB-EAW,ccew_area_country_name,Switzerland,CH,Switzerland,,mapped
+GB-EAW,ccew_area_country_name,Syria,SY,Syrian Arab Republic,,mapped
+GB-EAW,ccew_area_country_name,São Tomé And Principe,ST,Sao Tome and Principe,,mapped
+GB-EAW,ccew_area_country_name,Taiwan,TW,"Taiwan, Province of China",,mapped
+GB-EAW,ccew_area_country_name,Tajikistan,TJ,Tajikistan,,mapped
+GB-EAW,ccew_area_country_name,Tanzania,TZ,"Tanzania, United Republic of",,mapped
+GB-EAW,ccew_area_country_name,Thailand,TH,Thailand,,mapped
+GB-EAW,ccew_area_country_name,The Bahamas,BS,Bahamas,,mapped
+GB-EAW,ccew_area_country_name,The Gambia,GM,Gambia,,mapped
+GB-EAW,ccew_area_country_name,Togo,TG,Togo,,mapped
+GB-EAW,ccew_area_country_name,Tokelau,TK,Tokelau,,mapped
+GB-EAW,ccew_area_country_name,Tonga,TO,Tonga,,mapped
+GB-EAW,ccew_area_country_name,Trinidad And Tobago,TT,Trinidad and Tobago,,mapped
+GB-EAW,ccew_area_country_name,Tristan Da Cunha,SH,"Saint Helena, Ascension and Tristan da Cunha",,mapped
+GB-EAW,ccew_area_country_name,Tunisia,TN,Tunisia,,mapped
+GB-EAW,ccew_area_country_name,Turkey,TR,Türkiye,,mapped
+GB-EAW,ccew_area_country_name,Turkmenistan,TM,Turkmenistan,,mapped
+GB-EAW,ccew_area_country_name,Turks And Caicos Islands,TC,Turks and Caicos Islands,,mapped
+GB-EAW,ccew_area_country_name,Tuvalu,TV,Tuvalu,,mapped
+GB-EAW,ccew_area_country_name,Uganda,UG,Uganda,,mapped
+GB-EAW,ccew_area_country_name,Ukraine,UA,Ukraine,,mapped
+GB-EAW,ccew_area_country_name,Umm Al-quwain,AE,United Arab Emirates,emirate; mapped to AE,mapped
+GB-EAW,ccew_area_country_name,United Arab Emirates,AE,United Arab Emirates,,mapped
+GB-EAW,ccew_area_country_name,United States,US,United States,,mapped
+GB-EAW,ccew_area_country_name,United States Virgin Islands,VI,"Virgin Islands, U.S.",,mapped
+GB-EAW,ccew_area_country_name,Uruguay,UY,Uruguay,,mapped
+GB-EAW,ccew_area_country_name,Uzbekistan,UZ,Uzbekistan,,mapped
+GB-EAW,ccew_area_country_name,Vanuatu,VU,Vanuatu,,mapped
+GB-EAW,ccew_area_country_name,Vatican City,VA,Holy See (Vatican City State),,mapped
+GB-EAW,ccew_area_country_name,Venezuela,VE,"Venezuela, Bolivarian Republic of",,mapped
+GB-EAW,ccew_area_country_name,Vietnam,VN,Viet Nam,,mapped
+GB-EAW,ccew_area_country_name,Wake Island,UM,United States Minor Outlying Islands,,mapped
+GB-EAW,ccew_area_country_name,Wallis And Futuna,WF,Wallis and Futuna,,mapped
+GB-EAW,ccew_area_country_name,Western Sahara,EH,Western Sahara,,mapped
+GB-EAW,ccew_area_country_name,Yemen,YE,Yemen,,mapped
+GB-EAW,ccew_area_country_name,Zambia,ZM,Zambia,,mapped
+GB-EAW,ccew_area_country_name,Zimbabwe,ZW,Zimbabwe,,mapped
+CA,cra_country_code,AE,AE,United Arab Emirates,,mapped
+CA,cra_country_code,AF,AF,Afghanistan,,mapped
+CA,cra_country_code,AG,AG,Antigua and Barbuda,,mapped
+CA,cra_country_code,AL,AL,Albania,,mapped
+CA,cra_country_code,AM,AM,Armenia,,mapped
+CA,cra_country_code,AO,AO,Angola,,mapped
+CA,cra_country_code,AR,AR,Argentina,,mapped
+CA,cra_country_code,AT,AT,Austria,,mapped
+CA,cra_country_code,AU,AU,Australia,,mapped
+CA,cra_country_code,AZ,AZ,Azerbaijan,,mapped
+CA,cra_country_code,BA,BA,Bosnia and Herzegovina,,mapped
+CA,cra_country_code,BB,BB,Barbados,,mapped
+CA,cra_country_code,BD,BD,Bangladesh,,mapped
+CA,cra_country_code,BE,BE,Belgium,,mapped
+CA,cra_country_code,BF,BF,Burkina Faso,,mapped
+CA,cra_country_code,BG,BG,Bulgaria,,mapped
+CA,cra_country_code,BH,BH,Bahrain,,mapped
+CA,cra_country_code,BI,BI,Burundi,,mapped
+CA,cra_country_code,BJ,BJ,Benin,,mapped
+CA,cra_country_code,BM,BM,Bermuda,,mapped
+CA,cra_country_code,BN,BN,Brunei Darussalam,,mapped
+CA,cra_country_code,BO,BO,"Bolivia, Plurinational State of",,mapped
+CA,cra_country_code,BR,BR,Brazil,,mapped
+CA,cra_country_code,BS,BS,Bahamas,,mapped
+CA,cra_country_code,BT,BT,Bhutan,,mapped
+CA,cra_country_code,BW,BW,Botswana,,mapped
+CA,cra_country_code,BY,BY,Belarus,,mapped
+CA,cra_country_code,BZ,BZ,Belize,,mapped
+CA,cra_country_code,CA,CA,Canada,,mapped
+CA,cra_country_code,CD,CD,"Congo, The Democratic Republic of the",,mapped
+CA,cra_country_code,CF,CF,Central African Republic,,mapped
+CA,cra_country_code,CG,CG,Congo,,mapped
+CA,cra_country_code,CH,CH,Switzerland,,mapped
+CA,cra_country_code,CI,CI,Côte d'Ivoire,,mapped
+CA,cra_country_code,CL,CL,Chile,,mapped
+CA,cra_country_code,CM,CM,Cameroon,,mapped
+CA,cra_country_code,CN,CN,China,,mapped
+CA,cra_country_code,CO,CO,Colombia,,mapped
+CA,cra_country_code,CR,CR,Costa Rica,,mapped
+CA,cra_country_code,CU,CU,Cuba,,mapped
+CA,cra_country_code,CY,CY,Cyprus,,mapped
+CA,cra_country_code,CZ,CZ,Czechia,,mapped
+CA,cra_country_code,DE,DE,Germany,,mapped
+CA,cra_country_code,DJ,DJ,Djibouti,,mapped
+CA,cra_country_code,DK,DK,Denmark,,mapped
+CA,cra_country_code,DM,DM,Dominica,,mapped
+CA,cra_country_code,DO,DO,Dominican Republic,,mapped
+CA,cra_country_code,DZ,DZ,Algeria,,mapped
+CA,cra_country_code,EC,EC,Ecuador,,mapped
+CA,cra_country_code,EE,EE,Estonia,,mapped
+CA,cra_country_code,EG,EG,Egypt,,mapped
+CA,cra_country_code,EH,EH,Western Sahara,,mapped
+CA,cra_country_code,ES,ES,Spain,,mapped
+CA,cra_country_code,ET,ET,Ethiopia,,mapped
+CA,cra_country_code,FI,FI,Finland,,mapped
+CA,cra_country_code,FJ,FJ,Fiji,,mapped
+CA,cra_country_code,FR,FR,France,,mapped
+CA,cra_country_code,GA,GA,Gabon,,mapped
+CA,cra_country_code,GB,GB,United Kingdom,,mapped
+CA,cra_country_code,GD,GD,Grenada,,mapped
+CA,cra_country_code,GE,GE,Georgia,,mapped
+CA,cra_country_code,GF,GF,French Guiana,,mapped
+CA,cra_country_code,GH,GH,Ghana,,mapped
+CA,cra_country_code,GL,GL,Greenland,,mapped
+CA,cra_country_code,GM,GM,Gambia,,mapped
+CA,cra_country_code,GN,GN,Guinea,,mapped
+CA,cra_country_code,GP,GP,Guadeloupe,,mapped
+CA,cra_country_code,GQ,GQ,Equatorial Guinea,,mapped
+CA,cra_country_code,GR,GR,Greece,,mapped
+CA,cra_country_code,GT,GT,Guatemala,,mapped
+CA,cra_country_code,GW,GW,Guinea-Bissau,,mapped
+CA,cra_country_code,GY,GY,Guyana,,mapped
+CA,cra_country_code,HK,HK,Hong Kong,,mapped
+CA,cra_country_code,HN,HN,Honduras,,mapped
+CA,cra_country_code,HR,HR,Croatia,,mapped
+CA,cra_country_code,HT,HT,Haiti,,mapped
+CA,cra_country_code,HU,HU,Hungary,,mapped
+CA,cra_country_code,ID,ID,Indonesia,,mapped
+CA,cra_country_code,IE,IE,Ireland,,mapped
+CA,cra_country_code,IL,IL,Israel,,mapped
+CA,cra_country_code,IN,IN,India,,mapped
+CA,cra_country_code,IQ,IQ,Iraq,,mapped
+CA,cra_country_code,IR,IR,"Iran, Islamic Republic of",,mapped
+CA,cra_country_code,IS,IS,Iceland,,mapped
+CA,cra_country_code,IT,IT,Italy,,mapped
+CA,cra_country_code,JM,JM,Jamaica,,mapped
+CA,cra_country_code,JO,JO,Jordan,,mapped
+CA,cra_country_code,JP,JP,Japan,,mapped
+CA,cra_country_code,KE,KE,Kenya,,mapped
+CA,cra_country_code,KG,KG,Kyrgyzstan,,mapped
+CA,cra_country_code,KH,KH,Cambodia,,mapped
+CA,cra_country_code,KI,KI,Kiribati,,mapped
+CA,cra_country_code,KN,KN,Saint Kitts and Nevis,,mapped
+CA,cra_country_code,KP,KP,"Korea, Democratic People's Republic of",,mapped
+CA,cra_country_code,KR,KR,"Korea, Republic of",,mapped
+CA,cra_country_code,KW,KW,Kuwait,,mapped
+CA,cra_country_code,KZ,KZ,Kazakhstan,,mapped
+CA,cra_country_code,LA,LA,Lao People's Democratic Republic,,mapped
+CA,cra_country_code,LB,LB,Lebanon,,mapped
+CA,cra_country_code,LC,LC,Saint Lucia,,mapped
+CA,cra_country_code,LK,LK,Sri Lanka,,mapped
+CA,cra_country_code,LR,LR,Liberia,,mapped
+CA,cra_country_code,LS,LS,Lesotho,,mapped
+CA,cra_country_code,LT,LT,Lithuania,,mapped
+CA,cra_country_code,LU,LU,Luxembourg,,mapped
+CA,cra_country_code,LV,LV,Latvia,,mapped
+CA,cra_country_code,LY,LY,Libya,,mapped
+CA,cra_country_code,MA,MA,Morocco,,mapped
+CA,cra_country_code,MD,MD,"Moldova, Republic of",,mapped
+CA,cra_country_code,ME,ME,Montenegro,,mapped
+CA,cra_country_code,MG,MG,Madagascar,,mapped
+CA,cra_country_code,MH,MH,Marshall Islands,,mapped
+CA,cra_country_code,MK,MK,North Macedonia,,mapped
+CA,cra_country_code,ML,ML,Mali,,mapped
+CA,cra_country_code,MM,MM,Myanmar,,mapped
+CA,cra_country_code,MN,MN,Mongolia,,mapped
+CA,cra_country_code,MR,MR,Mauritania,,mapped
+CA,cra_country_code,MU,MU,Mauritius,,mapped
+CA,cra_country_code,MW,MW,Malawi,,mapped
+CA,cra_country_code,MX,MX,Mexico,,mapped
+CA,cra_country_code,MY,MY,Malaysia,,mapped
+CA,cra_country_code,MZ,MZ,Mozambique,,mapped
+CA,cra_country_code,NA,NA,Namibia,,mapped
+CA,cra_country_code,NE,NE,Niger,,mapped
+CA,cra_country_code,NG,NG,Nigeria,,mapped
+CA,cra_country_code,NI,NI,Nicaragua,,mapped
+CA,cra_country_code,NL,NL,Netherlands,,mapped
+CA,cra_country_code,NO,NO,Norway,,mapped
+CA,cra_country_code,NP,NP,Nepal,,mapped
+CA,cra_country_code,NZ,NZ,New Zealand,,mapped
+CA,cra_country_code,OM,OM,Oman,,mapped
+CA,cra_country_code,PA,PA,Panama,,mapped
+CA,cra_country_code,PE,PE,Peru,,mapped
+CA,cra_country_code,PG,PG,Papua New Guinea,,mapped
+CA,cra_country_code,PH,PH,Philippines,,mapped
+CA,cra_country_code,PK,PK,Pakistan,,mapped
+CA,cra_country_code,PL,PL,Poland,,mapped
+CA,cra_country_code,PR,PR,Puerto Rico,,mapped
+CA,cra_country_code,PS,PS,"Palestine, State of",,mapped
+CA,cra_country_code,PT,PT,Portugal,,mapped
+CA,cra_country_code,PY,PY,Paraguay,,mapped
+CA,cra_country_code,QA,QA,Qatar,,mapped
+CA,cra_country_code,QM,,,CRA region code: Other countries in Central and South America (T4033 guide); not a country,region
+CA,cra_country_code,QN,,,CRA region code: Other countries in North America (T4033 guide); not a country,region
+CA,cra_country_code,QO,,,CRA region code: Other countries in the Middle East (T4033 guide); not a country,region
+CA,cra_country_code,QP,,,CRA region code: Other countries in Europe (T4033 guide); not a country,region
+CA,cra_country_code,QR,,,CRA region code: Other countries in Asia and Oceania (T4033 guide); not a country,region
+CA,cra_country_code,QS,,,CRA region code: Other countries in Africa (T4033 guide); not a country,region
+CA,cra_country_code,QZ,,,code not found in CRA T4033 code list [VERIFY],unmapped
+CA,cra_country_code,RO,RO,Romania,,mapped
+CA,cra_country_code,RS,RS,Serbia,,mapped
+CA,cra_country_code,RU,RU,Russian Federation,,mapped
+CA,cra_country_code,RW,RW,Rwanda,,mapped
+CA,cra_country_code,SA,SA,Saudi Arabia,,mapped
+CA,cra_country_code,SB,SB,Solomon Islands,,mapped
+CA,cra_country_code,SD,SD,Sudan,,mapped
+CA,cra_country_code,SE,SE,Sweden,,mapped
+CA,cra_country_code,SG,SG,Singapore,,mapped
+CA,cra_country_code,SI,SI,Slovenia,,mapped
+CA,cra_country_code,SK,SK,Slovakia,,mapped
+CA,cra_country_code,SL,SL,Sierra Leone,,mapped
+CA,cra_country_code,SN,SN,Senegal,,mapped
+CA,cra_country_code,SO,SO,Somalia,,mapped
+CA,cra_country_code,SR,SR,Suriname,,mapped
+CA,cra_country_code,SS,SS,South Sudan,,mapped
+CA,cra_country_code,SV,SV,El Salvador,,mapped
+CA,cra_country_code,SY,SY,Syrian Arab Republic,,mapped
+CA,cra_country_code,SZ,SZ,Eswatini,,mapped
+CA,cra_country_code,TC,TC,Turks and Caicos Islands,,mapped
+CA,cra_country_code,TD,TD,Chad,,mapped
+CA,cra_country_code,TG,TG,Togo,,mapped
+CA,cra_country_code,TH,TH,Thailand,,mapped
+CA,cra_country_code,TJ,TJ,Tajikistan,,mapped
+CA,cra_country_code,TL,TL,Timor-Leste,,mapped
+CA,cra_country_code,TM,TM,Turkmenistan,,mapped
+CA,cra_country_code,TN,TN,Tunisia,,mapped
+CA,cra_country_code,TO,TO,Tonga,,mapped
+CA,cra_country_code,TR,TR,Türkiye,,mapped
+CA,cra_country_code,TT,TT,Trinidad and Tobago,,mapped
+CA,cra_country_code,TW,TW,"Taiwan, Province of China",,mapped
+CA,cra_country_code,TZ,TZ,"Tanzania, United Republic of",,mapped
+CA,cra_country_code,UA,UA,Ukraine,,mapped
+CA,cra_country_code,UG,UG,Uganda,,mapped
+CA,cra_country_code,US,US,United States,,mapped
+CA,cra_country_code,UY,UY,Uruguay,,mapped
+CA,cra_country_code,UZ,UZ,Uzbekistan,,mapped
+CA,cra_country_code,VA,VA,Holy See (Vatican City State),,mapped
+CA,cra_country_code,VC,VC,Saint Vincent and the Grenadines,,mapped
+CA,cra_country_code,VE,VE,"Venezuela, Bolivarian Republic of",,mapped
+CA,cra_country_code,VN,VN,Viet Nam,,mapped
+CA,cra_country_code,VU,VU,Vanuatu,,mapped
+CA,cra_country_code,XZ,,,code not found in CRA T4033 code list [VERIFY],unmapped
+CA,cra_country_code,YE,YE,Yemen,,mapped
+CA,cra_country_code,ZA,ZA,South Africa,,mapped
+CA,cra_country_code,ZM,ZM,Zambia,,mapped
+CA,cra_country_code,ZW,ZW,Zimbabwe,,mapped
+AU,acnc_iso3,ABW,AW,Aruba,,mapped
+AU,acnc_iso3,AFG,AF,Afghanistan,,mapped
+AU,acnc_iso3,AGO,AO,Angola,,mapped
+AU,acnc_iso3,AIA,AI,Anguilla,,mapped
+AU,acnc_iso3,ALA,AX,Åland Islands,,mapped
+AU,acnc_iso3,ALB,AL,Albania,,mapped
+AU,acnc_iso3,AND,AD,Andorra,,mapped
+AU,acnc_iso3,ARE,AE,United Arab Emirates,,mapped
+AU,acnc_iso3,ARG,AR,Argentina,,mapped
+AU,acnc_iso3,ARM,AM,Armenia,,mapped
+AU,acnc_iso3,ASM,AS,American Samoa,,mapped
+AU,acnc_iso3,ATA,AQ,Antarctica,,mapped
+AU,acnc_iso3,ATG,AG,Antigua and Barbuda,,mapped
+AU,acnc_iso3,AUS,AU,Australia,,mapped
+AU,acnc_iso3,AUT,AT,Austria,,mapped
+AU,acnc_iso3,AZE,AZ,Azerbaijan,,mapped
+AU,acnc_iso3,BDI,BI,Burundi,,mapped
+AU,acnc_iso3,BEL,BE,Belgium,,mapped
+AU,acnc_iso3,BEN,BJ,Benin,,mapped
+AU,acnc_iso3,BES,BQ,"Bonaire, Sint Eustatius and Saba",,mapped
+AU,acnc_iso3,BFA,BF,Burkina Faso,,mapped
+AU,acnc_iso3,BGD,BD,Bangladesh,,mapped
+AU,acnc_iso3,BGR,BG,Bulgaria,,mapped
+AU,acnc_iso3,BHR,BH,Bahrain,,mapped
+AU,acnc_iso3,BHS,BS,Bahamas,,mapped
+AU,acnc_iso3,BIH,BA,Bosnia and Herzegovina,,mapped
+AU,acnc_iso3,BLM,BL,Saint Barthélemy,,mapped
+AU,acnc_iso3,BLR,BY,Belarus,,mapped
+AU,acnc_iso3,BLZ,BZ,Belize,,mapped
+AU,acnc_iso3,BMU,BM,Bermuda,,mapped
+AU,acnc_iso3,BOL,BO,"Bolivia, Plurinational State of",,mapped
+AU,acnc_iso3,BRA,BR,Brazil,,mapped
+AU,acnc_iso3,BRB,BB,Barbados,,mapped
+AU,acnc_iso3,BRN,BN,Brunei Darussalam,,mapped
+AU,acnc_iso3,BTN,BT,Bhutan,,mapped
+AU,acnc_iso3,BWA,BW,Botswana,,mapped
+AU,acnc_iso3,CAF,CF,Central African Republic,,mapped
+AU,acnc_iso3,CAN,CA,Canada,,mapped
+AU,acnc_iso3,CHE,CH,Switzerland,,mapped
+AU,acnc_iso3,CHL,CL,Chile,,mapped
+AU,acnc_iso3,CHN,CN,China,,mapped
+AU,acnc_iso3,CIV,CI,Côte d'Ivoire,,mapped
+AU,acnc_iso3,CMR,CM,Cameroon,,mapped
+AU,acnc_iso3,COD,CD,"Congo, The Democratic Republic of the",,mapped
+AU,acnc_iso3,COG,CG,Congo,,mapped
+AU,acnc_iso3,COK,CK,Cook Islands,,mapped
+AU,acnc_iso3,COL,CO,Colombia,,mapped
+AU,acnc_iso3,COM,KM,Comoros,,mapped
+AU,acnc_iso3,CRI,CR,Costa Rica,,mapped
+AU,acnc_iso3,CUB,CU,Cuba,,mapped
+AU,acnc_iso3,CUW,CW,Curaçao,,mapped
+AU,acnc_iso3,CXR,CX,Christmas Island,,mapped
+AU,acnc_iso3,CYP,CY,Cyprus,,mapped
+AU,acnc_iso3,DEU,DE,Germany,,mapped
+AU,acnc_iso3,DJI,DJ,Djibouti,,mapped
+AU,acnc_iso3,DMA,DM,Dominica,,mapped
+AU,acnc_iso3,DNK,DK,Denmark,,mapped
+AU,acnc_iso3,DOM,DO,Dominican Republic,,mapped
+AU,acnc_iso3,DZA,DZ,Algeria,,mapped
+AU,acnc_iso3,ECU,EC,Ecuador,,mapped
+AU,acnc_iso3,EGY,EG,Egypt,,mapped
+AU,acnc_iso3,ERI,ER,Eritrea,,mapped
+AU,acnc_iso3,ESP,ES,Spain,,mapped
+AU,acnc_iso3,EST,EE,Estonia,,mapped
+AU,acnc_iso3,ETH,ET,Ethiopia,,mapped
+AU,acnc_iso3,FIN,FI,Finland,,mapped
+AU,acnc_iso3,FJI,FJ,Fiji,,mapped
+AU,acnc_iso3,FRA,FR,France,,mapped
+AU,acnc_iso3,FRO,FO,Faroe Islands,,mapped
+AU,acnc_iso3,FSM,FM,"Micronesia, Federated States of",,mapped
+AU,acnc_iso3,GAB,GA,Gabon,,mapped
+AU,acnc_iso3,GBR,GB,United Kingdom,,mapped
+AU,acnc_iso3,GEO,GE,Georgia,,mapped
+AU,acnc_iso3,GGY,GG,Guernsey,,mapped
+AU,acnc_iso3,GHA,GH,Ghana,,mapped
+AU,acnc_iso3,GIB,GI,Gibraltar,,mapped
+AU,acnc_iso3,GIN,GN,Guinea,,mapped
+AU,acnc_iso3,GLP,GP,Guadeloupe,,mapped
+AU,acnc_iso3,GMB,GM,Gambia,,mapped
+AU,acnc_iso3,GNB,GW,Guinea-Bissau,,mapped
+AU,acnc_iso3,GNQ,GQ,Equatorial Guinea,,mapped
+AU,acnc_iso3,GRC,GR,Greece,,mapped
+AU,acnc_iso3,GRD,GD,Grenada,,mapped
+AU,acnc_iso3,GRL,GL,Greenland,,mapped
+AU,acnc_iso3,GTM,GT,Guatemala,,mapped
+AU,acnc_iso3,GUF,GF,French Guiana,,mapped
+AU,acnc_iso3,GUM,GU,Guam,,mapped
+AU,acnc_iso3,GUY,GY,Guyana,,mapped
+AU,acnc_iso3,HKG,HK,Hong Kong,,mapped
+AU,acnc_iso3,HMD,HM,Heard Island and McDonald Islands,,mapped
+AU,acnc_iso3,HND,HN,Honduras,,mapped
+AU,acnc_iso3,HRV,HR,Croatia,,mapped
+AU,acnc_iso3,HTI,HT,Haiti,,mapped
+AU,acnc_iso3,HUN,HU,Hungary,,mapped
+AU,acnc_iso3,IDN,ID,Indonesia,,mapped
+AU,acnc_iso3,IND,IN,India,,mapped
+AU,acnc_iso3,IOT,IO,British Indian Ocean Territory,,mapped
+AU,acnc_iso3,IRL,IE,Ireland,,mapped
+AU,acnc_iso3,IRN,IR,"Iran, Islamic Republic of",,mapped
+AU,acnc_iso3,IRQ,IQ,Iraq,,mapped
+AU,acnc_iso3,ISL,IS,Iceland,,mapped
+AU,acnc_iso3,ISR,IL,Israel,,mapped
+AU,acnc_iso3,ITA,IT,Italy,,mapped
+AU,acnc_iso3,JAM,JM,Jamaica,,mapped
+AU,acnc_iso3,JEY,JE,Jersey,,mapped
+AU,acnc_iso3,JOR,JO,Jordan,,mapped
+AU,acnc_iso3,JPN,JP,Japan,,mapped
+AU,acnc_iso3,KAZ,KZ,Kazakhstan,,mapped
+AU,acnc_iso3,KEN,KE,Kenya,,mapped
+AU,acnc_iso3,KGZ,KG,Kyrgyzstan,,mapped
+AU,acnc_iso3,KHM,KH,Cambodia,,mapped
+AU,acnc_iso3,KIR,KI,Kiribati,,mapped
+AU,acnc_iso3,KNA,KN,Saint Kitts and Nevis,,mapped
+AU,acnc_iso3,KOR,KR,"Korea, Republic of",,mapped
+AU,acnc_iso3,KWT,KW,Kuwait,,mapped
+AU,acnc_iso3,LAO,LA,Lao People's Democratic Republic,,mapped
+AU,acnc_iso3,LBN,LB,Lebanon,,mapped
+AU,acnc_iso3,LBR,LR,Liberia,,mapped
+AU,acnc_iso3,LBY,LY,Libya,,mapped
+AU,acnc_iso3,LCA,LC,Saint Lucia,,mapped
+AU,acnc_iso3,LKA,LK,Sri Lanka,,mapped
+AU,acnc_iso3,LSO,LS,Lesotho,,mapped
+AU,acnc_iso3,LTU,LT,Lithuania,,mapped
+AU,acnc_iso3,LUX,LU,Luxembourg,,mapped
+AU,acnc_iso3,LVA,LV,Latvia,,mapped
+AU,acnc_iso3,MAC,MO,Macao,,mapped
+AU,acnc_iso3,MAF,MF,Saint Martin (French part),,mapped
+AU,acnc_iso3,MAR,MA,Morocco,,mapped
+AU,acnc_iso3,MCO,MC,Monaco,,mapped
+AU,acnc_iso3,MDA,MD,"Moldova, Republic of",,mapped
+AU,acnc_iso3,MDG,MG,Madagascar,,mapped
+AU,acnc_iso3,MDV,MV,Maldives,,mapped
+AU,acnc_iso3,MEX,MX,Mexico,,mapped
+AU,acnc_iso3,MHL,MH,Marshall Islands,,mapped
+AU,acnc_iso3,MLI,ML,Mali,,mapped
+AU,acnc_iso3,MLT,MT,Malta,,mapped
+AU,acnc_iso3,MMR,MM,Myanmar,,mapped
+AU,acnc_iso3,MNE,ME,Montenegro,,mapped
+AU,acnc_iso3,MNG,MN,Mongolia,,mapped
+AU,acnc_iso3,MNP,MP,Northern Mariana Islands,,mapped
+AU,acnc_iso3,MOZ,MZ,Mozambique,,mapped
+AU,acnc_iso3,MRT,MR,Mauritania,,mapped
+AU,acnc_iso3,MSR,MS,Montserrat,,mapped
+AU,acnc_iso3,MTQ,MQ,Martinique,,mapped
+AU,acnc_iso3,MUS,MU,Mauritius,,mapped
+AU,acnc_iso3,MWI,MW,Malawi,,mapped
+AU,acnc_iso3,MYS,MY,Malaysia,,mapped
+AU,acnc_iso3,MYT,YT,Mayotte,,mapped
+AU,acnc_iso3,NAM,NA,Namibia,,mapped
+AU,acnc_iso3,NCL,NC,New Caledonia,,mapped
+AU,acnc_iso3,NER,NE,Niger,,mapped
+AU,acnc_iso3,NFK,NF,Norfolk Island,,mapped
+AU,acnc_iso3,NGA,NG,Nigeria,,mapped
+AU,acnc_iso3,NIC,NI,Nicaragua,,mapped
+AU,acnc_iso3,NIU,NU,Niue,,mapped
+AU,acnc_iso3,NLD,NL,Netherlands,,mapped
+AU,acnc_iso3,NOR,NO,Norway,,mapped
+AU,acnc_iso3,NPL,NP,Nepal,,mapped
+AU,acnc_iso3,NRU,NR,Nauru,,mapped
+AU,acnc_iso3,NZL,NZ,New Zealand,,mapped
+AU,acnc_iso3,OMN,OM,Oman,,mapped
+AU,acnc_iso3,PAK,PK,Pakistan,,mapped
+AU,acnc_iso3,PAN,PA,Panama,,mapped
+AU,acnc_iso3,PCN,PN,Pitcairn,,mapped
+AU,acnc_iso3,PER,PE,Peru,,mapped
+AU,acnc_iso3,PHL,PH,Philippines,,mapped
+AU,acnc_iso3,PLW,PW,Palau,,mapped
+AU,acnc_iso3,PNG,PG,Papua New Guinea,,mapped
+AU,acnc_iso3,POL,PL,Poland,,mapped
+AU,acnc_iso3,PRI,PR,Puerto Rico,,mapped
+AU,acnc_iso3,PRK,KP,"Korea, Democratic People's Republic of",,mapped
+AU,acnc_iso3,PRT,PT,Portugal,,mapped
+AU,acnc_iso3,PRY,PY,Paraguay,,mapped
+AU,acnc_iso3,PSE,PS,"Palestine, State of",,mapped
+AU,acnc_iso3,PYF,PF,French Polynesia,,mapped
+AU,acnc_iso3,QAT,QA,Qatar,,mapped
+AU,acnc_iso3,REU,RE,Réunion,,mapped
+AU,acnc_iso3,ROM,RO,Romania,legacy ISO3 code for Romania (ROU since 2002),mapped
+AU,acnc_iso3,RUS,RU,Russian Federation,,mapped
+AU,acnc_iso3,RWA,RW,Rwanda,,mapped
+AU,acnc_iso3,SAU,SA,Saudi Arabia,,mapped
+AU,acnc_iso3,SDN,SD,Sudan,,mapped
+AU,acnc_iso3,SEN,SN,Senegal,,mapped
+AU,acnc_iso3,SGP,SG,Singapore,,mapped
+AU,acnc_iso3,SGS,GS,South Georgia and the South Sandwich Islands,,mapped
+AU,acnc_iso3,SLB,SB,Solomon Islands,,mapped
+AU,acnc_iso3,SLE,SL,Sierra Leone,,mapped
+AU,acnc_iso3,SLV,SV,El Salvador,,mapped
+AU,acnc_iso3,SMR,SM,San Marino,,mapped
+AU,acnc_iso3,SOM,SO,Somalia,,mapped
+AU,acnc_iso3,SPM,PM,Saint Pierre and Miquelon,,mapped
+AU,acnc_iso3,SRB,RS,Serbia,,mapped
+AU,acnc_iso3,SSD,SS,South Sudan,,mapped
+AU,acnc_iso3,STP,ST,Sao Tome and Principe,,mapped
+AU,acnc_iso3,SUR,SR,Suriname,,mapped
+AU,acnc_iso3,SVK,SK,Slovakia,,mapped
+AU,acnc_iso3,SVN,SI,Slovenia,,mapped
+AU,acnc_iso3,SWE,SE,Sweden,,mapped
+AU,acnc_iso3,SWZ,SZ,Eswatini,,mapped
+AU,acnc_iso3,SXM,SX,Sint Maarten (Dutch part),,mapped
+AU,acnc_iso3,SYC,SC,Seychelles,,mapped
+AU,acnc_iso3,SYR,SY,Syrian Arab Republic,,mapped
+AU,acnc_iso3,TCA,TC,Turks and Caicos Islands,,mapped
+AU,acnc_iso3,TCD,TD,Chad,,mapped
+AU,acnc_iso3,TGO,TG,Togo,,mapped
+AU,acnc_iso3,THA,TH,Thailand,,mapped
+AU,acnc_iso3,TJK,TJ,Tajikistan,,mapped
+AU,acnc_iso3,TKL,TK,Tokelau,,mapped
+AU,acnc_iso3,TKM,TM,Turkmenistan,,mapped
+AU,acnc_iso3,TLS,TL,Timor-Leste,,mapped
+AU,acnc_iso3,TON,TO,Tonga,,mapped
+AU,acnc_iso3,TTO,TT,Trinidad and Tobago,,mapped
+AU,acnc_iso3,TUN,TN,Tunisia,,mapped
+AU,acnc_iso3,TUR,TR,Türkiye,,mapped
+AU,acnc_iso3,TUV,TV,Tuvalu,,mapped
+AU,acnc_iso3,TWN,TW,"Taiwan, Province of China",,mapped
+AU,acnc_iso3,TZA,TZ,"Tanzania, United Republic of",,mapped
+AU,acnc_iso3,UGA,UG,Uganda,,mapped
+AU,acnc_iso3,UKR,UA,Ukraine,,mapped
+AU,acnc_iso3,UMI,UM,United States Minor Outlying Islands,,mapped
+AU,acnc_iso3,URY,UY,Uruguay,,mapped
+AU,acnc_iso3,USA,US,United States,,mapped
+AU,acnc_iso3,UZB,UZ,Uzbekistan,,mapped
+AU,acnc_iso3,VAT,VA,Holy See (Vatican City State),,mapped
+AU,acnc_iso3,VCT,VC,Saint Vincent and the Grenadines,,mapped
+AU,acnc_iso3,VEN,VE,"Venezuela, Bolivarian Republic of",,mapped
+AU,acnc_iso3,VGB,VG,"Virgin Islands, British",,mapped
+AU,acnc_iso3,VIR,VI,"Virgin Islands, U.S.",,mapped
+AU,acnc_iso3,VNM,VN,Viet Nam,,mapped
+AU,acnc_iso3,VUT,VU,Vanuatu,,mapped
+AU,acnc_iso3,WLF,WF,Wallis and Futuna,,mapped
+AU,acnc_iso3,WSM,WS,Samoa,,mapped
+AU,acnc_iso3,YEM,YE,Yemen,,mapped
+AU,acnc_iso3,ZAF,ZA,South Africa,,mapped
+AU,acnc_iso3,ZMB,ZM,Zambia,,mapped
+AU,acnc_iso3,ZWE,ZW,Zimbabwe,,mapped
